@@ -43,7 +43,7 @@ export default function Hero() {
       >
         <motion.div className="space-y-4" variants={itemVariants}>
           <h2 className="text-lg font-medium text-primary">Full Stack Developer</h2>
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">Raghvendra Kumar</h1>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">I'm Raghvendra</h1>
           <div className="h-16 md:h-20 flex items-center justify-center">
             <h2 className="text-2xl md:text-3xl font-semibold flex flex-wrap justify-center">
               <span className="mr-2">I build</span>
