@@ -55,7 +55,7 @@ export default function Navbar() {
             href="#home"
             className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-purple-500"
           >
-            Raghvendra Kumar
+            RK
           </Link>
 
           {/* Desktop Navigation */}
