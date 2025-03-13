@@ -85,7 +85,7 @@ export default function Hero() {
 
         <motion.div className="flex items-center gap-6 pt-4 justify-center" variants={itemVariants}>
           <a
-            href="https://github.com"
+            href="https://github.com/procodz"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -95,7 +95,7 @@ export default function Hero() {
             </svg>
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/raghvendra88/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
