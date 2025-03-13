@@ -112,12 +112,12 @@ export default function Contact() {
                     <div>
                       <p className="text-sm text-muted-foreground">GitHub</p>
                       <a
-                        href="https://github.com"
+                        href="https://github.com/procodz"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="font-medium hover:text-primary transition-colors"
                       >
-                        github.com/raghvendra-kumar
+                        github.com/procodz
                       </a>
                     </div>
                   </div>
