@@ -14,7 +14,7 @@ const projects = [
     title: "Smart Assistant",
     description:
       "A chatbot using OpenAI GPT-4, LangChain, and ChromaDB to answer queries with Retrieval-Augmented Generation (RAG).",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/assit.webp?height=400&width=600",
     tags: ["AI", "NLP", "Python"],
     techStack: ["OpenAI GPT-4", "LangChain", "ChromaDB", "Streamlit", "PyPDF2", "Python"],
     features: [
@@ -23,14 +23,14 @@ const projects = [
       "User-friendly interface with Streamlit for seamless file uploads and chat interactions",
       "Expertise in AI-powered applications, NLP, and vector databases",
     ],
-    github: "#",
+    github: "https://github.com/procodz/context-aware-chatbot",
     demo: "#",
   },
   {
     id: 2,
     title: "Nerdhive.in",
     description: "A full-stack social media cum project management platform with real-time collaboration features.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/nerdhive.webp?height=400&width=600",
     tags: ["Full Stack", "MERN", "WebSockets"],
     techStack: ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io", "AWS", "Git"],
     features: [
@@ -46,7 +46,7 @@ const projects = [
     id: 3,
     title: "CodeLens",
     description: "An automated code review system using Python and React with multiple AI agents for code analysis.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/codelens.webp?height=400&width=600",
     tags: ["AI", "Code Analysis", "React"],
     techStack: ["Python", "React", "AI/ML", "Git", "REST"],
     features: [
@@ -55,7 +55,7 @@ const projects = [
       "Python backend with REST APIs for code parsing and integration with AI agents",
       "Enhanced developer productivity by automating code reviews and providing actionable insights",
     ],
-    github: "#",
+    github: "https://github.com/procodz/CodeLens",
     demo: "#",
   },
 ]
